@@ -1,7 +1,7 @@
 ### Hi, I'm Younes 👋
 
 🎓 2nd year GTR (Telecom & Networks) student at ENSA Safi  
- > DevOps & Cloud Enthusiast
+ > DevOps & Cloud Enthusiast — 
 🛠️ Full-Stack Developer — Django · React · Docker · AWS
 
 🚀 **Currently building:** [CollabSpace](https://github.com/student-collab-platform/mini-prt) — 
